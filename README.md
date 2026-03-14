@@ -1,6 +1,6 @@
-# 🪐 Satoshium — Info
+# 🪐 Satoshium — Labs
 
-Satoshium Info is the documentation, architecture, and development intelligence surface of the Satoshium ecosystem. It exists to make the project understandable, navigable, and durable — not just for today’s build cycle, but for the long arc of what Satoshium could become by 2035 and beyond.
+Satoshium Labs contains interactive tools, experimental interfaces, and prototype systems used to explore decentralized intelligence, AI governance, and long-horizon infrastructure models.
 
 This repository is part of the **Satoshium platform**, an experimental system exploring how decentralized intelligence, AI agents, and cryptographic infrastructure can evolve together over long time horizons.
 
